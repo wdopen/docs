@@ -122,7 +122,7 @@ const config = {
             ],
           },
         ],
-        copyright: ` ${new Date().getFullYear()} | 除非特别说明，负责本页内容均采用<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans">CC BY-SA 3.0</a>授权方式。 `,
+        copyright: ` 除非特别说明，负责本页内容均采用<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh-hans">CC BY-SA 3.0</a>授权方式。 `,
       },
       prism: {
         theme: prismThemes.github,
