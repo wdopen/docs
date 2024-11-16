@@ -4,7 +4,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'WDOPEN',
-  tagline: 'Dinosaurs are cool',
+  tagline: '「增长成员能力，促进维基互通」',
   favicon: 'img/favicon.ico',
 
   url: 'https://your-docusaurus-site.example.com',
