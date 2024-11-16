@@ -1,4 +1,37 @@
-此项目的``blog``和``docs``等内容来源于各贡献者的提交，他们对他们的提交担起许可证赋予的权利和义务，他们在提交内容时就默认或以其他方式声明遵守其相应意图下使用的授权方式，否则他们应该使用本许可证文件指出的授权方式（即CC BY-SA 3.0授权方式），你可以查看下面的副本或者访问https://creativecommons.org/licenses/by-sa/3.0/legalcode.en
+此项目是基于[Docusaurus](https://docusaurus.io/)建立的内容系统，而的``blog``和``docs``等内容都是各贡献者提交的。
+
+# 基础系统
+
+基础系统代码适用[MIT许可证](https://opensource.org/license/MIT)，许可证副本如下：
+
+```
+MIT License
+
+Copyright (c) 2024 WDOPEN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED， INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY， WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE。
+```
+
+## 创作内容
+
+用户创作产生的内容适用[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.en)，许可证副本如下：
+
 ```
 Creative Commons Legal Code
 
@@ -7,7 +40,7 @@ Attribution-ShareAlike 3.0 Unported
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN
     ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
+    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIESp
     REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR
     DAMAGES RESULTING FROM ITS USE.
 
@@ -359,29 +392,4 @@ Creative Commons Notice
     this trademark restriction does not form part of the License.
 
     Creative Commons may be contacted at https://creativecommons.org/.
-```
-
-此项目是基于Docusaurus （https://docusaurus.io/） 建立的内容系统，除了``blog``和``docs``内容以外，绝大多数内容都使用其生成，因而使用相同的MIT许可证，你可以查看下面的副本或者访问https://opensource.org/license/MIT
-```
-MIT License
-
-Copyright (c) 2024 WDOPEN
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED， INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY， WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE。
 ```
