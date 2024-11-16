@@ -64,12 +64,12 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
+            label: '文档',
             position: 'left',
-            label: 'Docs',
           },
           {
             to: '/blog',
-            label: 'Blog',
+            label: '博客',
             position: 'left'
           },
           {
@@ -83,16 +83,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'WDOPEN',
             items: [
               {
-                label: 'Docs',
+                label: '文档',
                 to: '/docs/intro',
+              },
+              {
+                label: '博客',
+                to: '/blog',
               },
             ],
           },
           {
-            title: 'Community',
+            title: '社区',
             items: [
               {
                 label: 'Stack Overflow',
