@@ -6,7 +6,7 @@ const config = {
   tagline: '「增长成员能力，促进维基互通」',
   favicon: 'img/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://wdopen.github.io/',
   baseUrl: '/',
 
   organizationName: 'wdopen',
@@ -61,15 +61,29 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            to: '/docs/intro',
             position: 'left',
-            label: '文档',
+            label: '基础教程',
           },
           {
-            to: '/blog',
-            label: '博客',
-            position: 'left'
+            to: '/docs/syntax/intro',
+            position: 'left',
+            label: '维基语法',
+          },
+          {
+            to: '/docs/wiki/intro',
+            position: 'left',
+            label: '网站功能',
+          },
+          {
+            to: '/docs/extend/intro',
+            position: 'left',
+            label: '组件版式',
+          },
+          {
+            to: '/docs/community/support',
+            position: 'left',
+            label: '社区支持',
           },
           {
             href: 'https://github.com/wdopen/docs',
@@ -121,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `除非特别注明，负责本页内容遵循<a href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>授权方式 ${new Date().getFullYear()} Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

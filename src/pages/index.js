@@ -24,7 +24,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro">
             <Translate description="Site docs btn">
-              查阅文档
+              开始查阅文档
             </Translate>
           </Link>
         </div>
