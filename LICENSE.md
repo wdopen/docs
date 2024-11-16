@@ -2,7 +2,7 @@
 
 # 基础系统
 
-基础系统代码适用[MIT许可证](https://opensource.org/license/MIT)，许可证副本如下：
+基础系统代码适用[MIT许可证](https://opensource.org/license/MIT)，许可证内容副本如下：
 
 ```
 MIT License
@@ -30,7 +30,7 @@ SOFTWARE。
 
 ## 创作内容
 
-用户创作产生的内容适用[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.en)，许可证副本如下：
+贡献者创作内容适用[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.en)，许可证内容副本如下：
 
 ```
 Creative Commons Legal Code
