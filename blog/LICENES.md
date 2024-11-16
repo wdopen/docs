@@ -1,4 +1,4 @@
-此文件内的内容来源于各贡献者的提交，他们对他们的提交担起许可证赋予的权利和义务，他们在提交内容时就默认或以其他方式声明遵守其相应意图下使用的授权方式，否则他们应该使用本许可证文件指出的授权方式（即CC BY-SA 3.0授权方式），你可以查看下面的副本或者访问https://creativecommons.org/licenses/by-sa/3.0/legalcode.en
+此级文件夹内的内容来源于各贡献者的提交，他们对他们的提交担起许可证赋予的权利和义务，他们在提交内容时就默认或以其他方式声明遵守其相应意图下使用的授权方式，否则他们应该使用本许可证文件指出的授权方式（即CC BY-SA 3.0授权方式），你可以查看下面的副本或者访问https://creativecommons.org/licenses/by-sa/3.0/legalcode.en
 
 ```
 Creative Commons Legal Code
