@@ -1,4 +1,3 @@
-
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -132,57 +131,4 @@ const config = {
     }),
 };
 
-export default {
-  plugins: [
-    [
-      '@docusaurus/plugin-pwa',
-      {
-        debug: true,
-        offlineModeActivationStrategies: [
-          'appInstalled',
-          'standalone',
-          'queryString',
-        ],
-        pwaHead: [
-          {
-            tagName: 'link',
-            rel: 'icon',
-            href: '/img/docusaurus.png',
-          },
-          {
-            tagName: 'link',
-            rel: 'manifest',
-            href: '/manifest.json', // your PWA manifest
-          },
-          {
-            tagName: 'meta',
-            name: 'theme-color',
-            content: 'rgb(37, 194, 160)',
-          },
-        ],
-      },
-    ],
-  ],
-};
-
-module.exports = {
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        sitemap: {
-          lastmod: 'date',
-          changefreq: 'weekly',
-          priority: 0.5,
-          ignorePatterns: ['/tags/**'],
-          filename: 'sitemap.xml',
-          createSitemapItems: async (params) => {
-            const { defaultCreateSitemapItems, ...rest } = params;
-            const items = await defaultCreateSitemapItems(rest);
-            return items.filter((item) => !item.url.includes('/page/'));
-          },
-        },
-      },
-    ],
-  ],
-};
+export default config;
