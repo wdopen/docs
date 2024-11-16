@@ -52,13 +52,12 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'WDOPEN',
         logo: {
           alt: 'WDOPEN Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo_light.png',
+          srcDark: 'img/logo_dark.png',
         },
         items: [
           {
@@ -73,7 +72,7 @@ const config = {
             position: 'left'
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/wdopen/docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -121,7 +120,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/wdopen/docs',
               },
             ],
           },
