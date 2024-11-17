@@ -10,4 +10,4 @@ WDOPEN Docs是[Wikidot](https://www.wikidot.com/)的非官方中文文档库，�
 ## 文档库更新
 ![Alt](https://repobeats.axiom.co/api/embed/2b96ee0484f6b1b020038c6b8478cbe450af72d7.svg "Repobeats analytics image")
 
-# 许可证信息
+## 许可证信息
