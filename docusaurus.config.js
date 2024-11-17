@@ -92,27 +92,44 @@ const config = {
                 label: '博客',
                 to: '/blog',
               },
+              {
+                label: '社区',
+                to: '/community',
+              },
             ],
           },
           {
-            title: '社区',
+            title: 'Wikidot',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '官方文档',
+                href: 'https://www.wikidot.com/doc',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: '服务条款',
+                href: 'https://www.wikidot.com/legal:terms-of-service',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: '隐私政策',
+                href: 'http://www.wikidot.com/legal:privacy-policy',
               },
             ],
           },
           {
-            title: 'More',
+            title: '社区准则',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/wdopen/docs',
+              },
+            ],
+          },
+          {
+            title: '其它信息',
             items: [
               {
                 label: 'Blog',
