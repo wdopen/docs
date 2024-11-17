@@ -119,22 +119,22 @@ const config = {
             title: '社区准则',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: '社区公约',
+                href: 'https://github.com/wdopen/docs/blob/main/CODE_OF_CONDUCT.md',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/wdopen/docs',
+                label: '贡献指南',
+                href: 'https://github.com/wdopen/docs/blob/main/CONTRIBUTING.md',
+              },
+              {
+                label: '免责声明',
+                to: '/docs/disclaimer',
               },
             ],
           },
           {
             title: '其它信息',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/wdopen/docs',
