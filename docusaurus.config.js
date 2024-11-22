@@ -12,8 +12,8 @@ const config = {
   organizationName: 'wdopen',
   projectName: 'docs',
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'log',
+  onBrokenMarkdownLinks: 'log',
 
   i18n: {
     defaultLocale: 'zh-Hans',
