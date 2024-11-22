@@ -11,7 +11,7 @@ WDOPEN Docs是[Wikidot](https://www.wikidot.com/)的非官方中文文档库，�
 ## 如何贡献
 我们时时刻刻都需要贡献者和我们一起去参与到文档、博客等内容的创建、编辑和修改当中。如果您有意愿参与贡献，请查看[贡献指南](https://github.com/wdopen/docs/blob/main/CONTRIBUTING.md)，我们时刻欢迎您提交拉取请求。
 
-如果有任何疑问和建议，可以[在Github上建立讨论](https://github.com/wdopen/docs/issues)。
+如果对此项目有任何疑问和建议，可以[在Github上建立讨论](https://github.com/wdopen/docs/issues)。
 
 
 ## 项目支持
