@@ -7,8 +7,12 @@ WDOPEN Docs是[Wikidot](https://www.wikidot.com/)的非官方中文文档库，�
 
 此项目聚合[Wikidot官方文档](https://www.wikidot.com/doc)、[Wikidot手册](http://handbook.wikidot.com/)和其他各站代码使用指导，对其润色修改，添加更多原创指导，以使文档更通俗易懂。
 
-## 文档库更新
+## 特别感谢
+
+
+## 代码更新
 ![Alt](https://repobeats.axiom.co/api/embed/2b96ee0484f6b1b020038c6b8478cbe450af72d7.svg "Repobeats analytics image")
 
-## 许可证信息
+## 许可信息
+
 
