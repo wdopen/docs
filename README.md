@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/wdopen/docs/refs/heads/main/static/img/logo_dark.png" width="98" alt="" />
+    <img src="./static/img/logo_dark.png" width="98" alt="" />
 </div>
 
 # WDOPEN Docs
