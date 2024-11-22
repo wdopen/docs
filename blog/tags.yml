@@ -3,13 +3,32 @@ announcement:
   permalink: /announcement
   description: WDOPEN相关公告标签
 
+news:
+  label: 新闻
+  permalink: /news
+  description: Wikidot近期新闻摘要
 
 update:
   label: 更新
   permalink: /update
-  description: 告知最近更新的标签
+  description: 告知项目更新的标签
 
 guide:
   label: 指南
   permalink: /guide
   description: 针对某方面的指南标签
+
+resource:
+  label: 资源
+  permalink: /resource
+  description: 资源分享相关内容标签
+
+tech:
+  label: 技术
+  permalink: /tech
+  description: 技术与代码内容的标签
+
+licence:
+  label: 授权
+  permalink: licence
+  description: 授权与许可内容的标签
