@@ -16,8 +16,8 @@ const config = {
   onBrokenMarkdownLinks: 'log',
 
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'zh-CN',
+    locales: ['zh-CN'],
   },
 
   presets: [
