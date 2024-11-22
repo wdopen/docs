@@ -14,5 +14,10 @@ WDOPEN Docs是[Wikidot](https://www.wikidot.com/)的非官方中文文档库，�
 ![Alt](https://repobeats.axiom.co/api/embed/2b96ee0484f6b1b020038c6b8478cbe450af72d7.svg "Repobeats analytics image")
 
 ## 许可信息
+此项目是基于[Docusaurus](https://docusaurus.io/)建立的内容系统，而的``blog``和``docs``等内容都是各贡献者提交的。
+
+基础系统代码适用[MIT许可证](https://opensource.org/license/MIT)，贡献者创作内容适用[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.en)。
+
+
 
 
