@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '开放文档库',
+    Svg: require('@site/static/img/undraw_docs_book.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        我们的文档公开且便捷，可以让更多人减少学习使用Wikidot的成本，并使其专注到阅读和创作当中。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '聚合式内容',
+    Svg: require('@site/static/img/undraw_docs_diagram.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        我们的文档将官方文档和各站指导全部聚合起来，对其内容加以润色和删改，使得文档更通俗易懂。
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '人人可参与',
+    Svg: require('@site/static/img/undraw_docs_collab.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        我们的文档都是由贡献者们创建和编辑的，组成了内容丰富的文档库，我们随时随地欢迎您参与其中。
       </>
     ),
   },

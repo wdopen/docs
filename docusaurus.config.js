@@ -8,6 +8,7 @@ const config = {
 
   url: 'https://docs.dfcwiki.xyz/',
   baseUrl: '/',
+  titleDelimiter: '-',
 
   organizationName: 'wdopen',
   projectName: 'docs',
@@ -43,7 +44,7 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: './src/css/theme.css',
         },
       }),
     ],
@@ -73,7 +74,8 @@ const config = {
           },
           {
             href: 'https://github.com/wdopen/docs',
-            label: 'GitHub',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repo',
             position: 'right',
           },
         ],
@@ -133,11 +135,19 @@ const config = {
             ],
           },
           {
-            title: '其它信息',
+            title: '项目支持',
             items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/wdopen/docs',
+              },
+              {
+                label: 'Docusaurus',
+                href: 'https://docusaurus.io/',
+              },
+              {
+                label: 'Cloudflare Pages',
+                href: 'https://pages.cloudflare.com/',
               },
             ],
           },
