@@ -73,6 +73,11 @@ const config = {
             position: 'left'
           },
           {
+            to: '/community',
+            label: '社区',
+            position: 'left'
+          },
+          {
             href: 'https://github.com/wdopen/docs',
             className: 'header-github-link',
             'aria-label': 'GitHub repo',
