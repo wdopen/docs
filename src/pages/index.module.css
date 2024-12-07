@@ -19,10 +19,21 @@
   justify-content: center;
 }
 
+/* Introinfo BOX */
 main section:nth-child(2) {
   background-color: var(--ifm-color-emphasis-100);
 }
 
+.introinfo {
+  padding: 1.2em 0;
+}
+
+.introinfo .container{ 
+  width: 80%;
+  text-align: center;
+}
+
+/* Media Style */
 @media screen and (max-width: 592px) {
   .heroBanner {
     padding: 2rem;
