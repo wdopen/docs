@@ -30,7 +30,3 @@ WDOPEN在此感谢这些第三方服务慷慨的允许我们免费使用它们�
 基础系统代码适用[MIT许可证](https://opensource.org/license/MIT)，贡献者创作内容适用[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.en)。
 
 图标由[RZX STORY](https://www.wikidot.com/user:info/rzx-story)为WDOPEN制作，不遵循CC协议，使用时请注意署名。
-
-
-
-
