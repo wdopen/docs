@@ -1,4 +1,4 @@
-此项目是基于[Docusaurus](https://docusaurus.io/)建立的内容系统，而的``blog``和``docs``等内容都是各贡献者提交的。
+此项目是基于[Docusaurus](https://docusaurus.io/)建立的内容系统，而``blog``和``docs``等内容都是各贡献者提交的。
 
 ## 基础系统
 
