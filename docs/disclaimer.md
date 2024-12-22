@@ -32,7 +32,7 @@ WDOPEN组织是Wikidot的非官方民间组织，我们不能代表Wikidot官方
 
 
 ## 版权声明
-此项目是基于[Docusaurus](https://docusaurus.io/)建立的内容系统，而的``blog``和``docs``等内容都是各贡献者提交的。
+此项目是基于[Docusaurus](https://docusaurus.io/)建立的内容系统，而``blog``和``docs``等内容都是各贡献者提交的。
 * 基础系统代码适用[MIT许可证](https://opensource.org/license/MIT)
 * 贡献者创作内容适用[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode.en)
 * 图标由[RZX STORY](https://www.wikidot.com/user:info/rzx-story)为WDOPEN制作，不遵循CC协议，使用时请注意署名
