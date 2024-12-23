@@ -1,8 +1,11 @@
-import React from "react";
-import Styled from "styled-components";
+import React from 'react';
+import Layout from '@theme/Layout';
 
-function Page(){
-  return(
-    <div className="hello">你好</div>
-    );
+export default function MyReactPage() {
+  return (
+    <Layout>
+      <h1>My React page</h1>
+      <p>This is a React page</p>
+    </Layout>
+  );
 }
