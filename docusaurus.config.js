@@ -6,7 +6,7 @@ const config = {
   tagline: '「增长成员能力，促进维基互通」',
   favicon: 'img/favicon.ico',
 
-  url: 'https://docs.dfcwiki.xyz/',
+  url: 'https://wdopen.xyz/',
   baseUrl: '/',
   titleDelimiter: '-',
 
