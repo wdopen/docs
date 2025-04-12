@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 注册账号
 
-迈入Wikidot的第一步，让我们开始注册你的Wikidot账号吧！
+让我们开始注册你的Wikidot账号吧！
 
 ## 打开注册页面
 :::info
