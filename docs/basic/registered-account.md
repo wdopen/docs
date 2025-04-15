@@ -12,7 +12,7 @@ sidebar_position: 1
 
 同时，自从2024年左右开始，Wikidot所使用的CDN服务（Cloudfront）受到影响，这导致部分不支持安全访问的页面会受到影响（表现形式为页面崩坏、功能无法正常使用），解决办法是对支持安全访问的页面进行安全访问（例如通过HTTPS地址访问，这样可以让整个页面的资源强制使用安全访问，可以规避CDN受影响的情况）。
 
-因此你要访问的应该是 ``https://www.wikidot.com/`` 而不是 ``http://www.wikidot.com/`` ，对于其他Wikidot网站也是如此，不过有的网站由于没有开启安全访问。
+因此你要访问的应该是 ``https://www.wikidot.com/`` 而不是 ``http://www.wikidot.com/`` （如果你的浏览器设置要求强制使用HTTPS访问，则默认会跳转到安全访问），对于其他Wikidot网站也是如此，不过有的网站由于没有开启安全访问，这种方式可能无效，还请自行使用代理工具。
 :::
 
 打开你的设备上的浏览器，建议优先使用非国内浏览器（例如[Microsoft Edge](https://www.microsoft.com/zh-cn/edge/download)、[Google Chrome](https://www.google.com/intl/zh-CN/chrome/)、[Mozilla Firefox](https://www.mozilla.org/zh-CN/firefox/)等），如果您使用的是国内浏览器（例如[百度](https://www.baidu.com/)、[360浏览器](https://browser.360.cn/)、[QQ浏览器](https://browser.qq.com/)等）可能出现页面无法访问或者访问被拦截的情况，这是由于国内浏览器对部分网站访问的拦截导致的，建议更换为国外浏览器。
