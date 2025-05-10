@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-description: 让我们开始注册你的Wikidot账号吧！
+description: 开始注册你的Wikidot账号
 ---
 
 # 注册账号

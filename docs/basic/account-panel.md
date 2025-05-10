@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-description: 在完成注册账号后，让我们简单了解Wikidot的账号面板
+description: 了解Wikidot的账号面板
 ---
 
 # 账号面板
