@@ -1,10 +1,10 @@
 ---
 sidebar_position: 1
+description: 让我们开始注册你的Wikidot账号吧！
 ---
 
 # 注册账号
-
-让我们开始注册你的Wikidot账号吧！
+> **推荐阅读**：_[逐步教程](https://scp-wiki-cn.wikidot.com/step-by-step)（SCP基金会）、[用户帐号FAQ](https://www.wikidot.com/faq:user-accounts)（Wikidot）_
 
 ## 打开注册页面
 :::info
