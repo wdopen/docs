@@ -1,16 +1,16 @@
 ---
 sidebar_position: 2
-description: 了解Wikidot的账号面板
+description: 了解 Wikidot 的账号面板
 ---
 
 # 账号面板
-在完成注册账号后，让我们简单了解Wikidot的账号面板的五个功能：
+在完成注册账号后，让我们简单了解 Wikidot 的账号面板的五个功能：
 
 ## 活动（beta）
-[活动（beta）](https://www.wikidot.com/account/activity)是Wikidot已经废弃的功能，原本的设计是为了关注页面、论坛、用户和网站的更新，例如某个页面或网站的新编辑，不过，由于数据库溢出，所以Wikidot不得不废弃该功能。
+[活动（beta）](https://www.wikidot.com/account/activity)是 Wikidot 已经废弃的功能，原本的设计是为了关注页面、论坛、用户和网站的更新，例如某个页面或网站的新编辑，不过，由于该功能导致的数据库溢出，目前 Wikidot 已废弃该功能。
 
 ## 消息
-在[消息](https://www.wikidot.com/account/messages)页面中，你可以查收由Wikidot系统或其他用户发送的站内信，也可以发送站内信给其他用户，同时在这里你也可以查看网站给你发送的邀请函和你的入站申请书状态。
+在[消息](https://www.wikidot.com/account/messages)页面中，你可以查收由 Wikidot 系统或其他用户发送的站内信，也可以发送站内信给其他用户，同时在这里你也可以查看网站给你发送的邀请函和你的入站申请书状态。
 
 ![消息面板页面](/img/basic/messages.png)
 
@@ -32,16 +32,16 @@ description: 了解Wikidot的账号面板
 
 ![设置面板页面](/img/basic/settings.png)
 
-在[设置面板](/docs/basic/settings)一文中，我们会详细说明Wikidot账号的设置方法。
+在[设置面板](/docs/basic/settings)一文中，我们会详细说明 Wikidot 账号的设置方法。
 
 ## 升级
 在[升级](https://www.wikidot.com/account/upgrade)页面中，你可以通过付费来添加额外的功能或服务，例如账号升级、网站存储空间扩展、网站数量扩展和更多高级功能等等。
 
-Wikidot账号按付费等级可以分成四个类别：免费注册即可获得的 _Free_ ，付费的 _Pro Lite_ 、_Pro_ 和 _Pro Plus_ 。而对于网站，还有针对优质社区网站的 _Community_ 类网站，这是免费的，但是需要申请才能获取，且仅限于为网站提供额外功能，而不针对账号的付费功能，并且目前 Wikidot 很少受理社区网站的申请。
+Wikidot 账号按付费等级可以分成四个类别：免费注册即可获得的 _Free_ ，付费的 _Pro Lite_ 、_Pro_ 和 _Pro Plus_ 。而对于网站，还有针对优质社区网站的 _Community_ 类网站，这是免费的，但是需要申请才能获取，且仅限于为网站提供额外功能，而不针对账号的付费功能，并且目前 Wikidot 很少受理社区网站的申请。
 
 ![升级面板页面](/img/basic/upgrade.png)
 
-按照Wikidot的[官方文档](https://www.wikidot.com/plans)，这四类账号的部分差异大概如下所示。值得一提的是，免费账号其实已经具有很多的功能。
+按照 Wikidot 的[官方文档](https://www.wikidot.com/plans)，这四类账号的部分差异大概如下所示。值得一提的是，免费账号其实已经具有很多的功能。
 
 | 功能服务                   |    _Free_   |  _Pro Lite_ |    _Pro_    |  _Pro Plus_ | _Community_  |
 | ------------------------- | :---------: | :---------: | :---------: | :---------: | :----------: |
@@ -64,4 +64,4 @@ Wikidot账号按付费等级可以分成四个类别：免费注册即可获得�
 
 另外，Pro Lite、Pro 和 Pro+ 用户支持通过充值来扩展网站空间和存储空间，一个扩展空间包括可创建网站数量一个和账号空间扩展 5GB。
 
-鉴于笔者没有实力尝试给Wikidot升级，所以这里就不额外行文加以介绍，有能力的读者若对Wikidot的高级功能感兴趣可以自行尝试。
+鉴于笔者没有实力尝试给 Wikidot 升级，所以这里就不额外行文加以介绍，有能力的读者若对 Wikidot 的高级功能感兴趣可以自行尝试。
