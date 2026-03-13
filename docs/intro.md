@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # 项目信息
-WDOPEN Docs是[Wikidot](https://www.wikidot.com/)非官方文档库，也是WDOPEN计划中最关键最核心的部分。你可在[网站](https:/wdopen.xyz/)上查看我们的文档、博客等内容。
+WDOPEN Docs是[Wikidot](https://www.wikidot.com/)非官方文档库，也是WDOPEN计划中最关键最核心的部分。你可在本站查看我们的文档、博客等内容。
 
 Wikidot是免费和付费的维基托管服务商，允许任何人创建自己的维基网站，以供分享内容、与他人协作和创建公开社群。在该平台上托管了SCP基金会、The Backrooms等知名的亚文化内容创作社群，这些社群是Wikidot中文用户的主要来源之一。Wikidot的用户们在这样的平台上建立了丰富多彩的内容，并发掘了各种特性和代码。
 
