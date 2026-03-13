@@ -6,7 +6,7 @@ const config = {
   tagline: '「增长成员能力，促进维基互通」',
   favicon: 'img/favicon.ico',
 
-  url: 'https://wdopen.xyz/',
+  url: 'https://wdopen.pages.dev/',
   baseUrl: '/',
   titleDelimiter: '-',
 
@@ -81,12 +81,12 @@ const config = {
             href: 'https://github.com/wdopen/docs',
             className: 'header-github-link',
             'aria-label': 'GitHub repo',
-            position: 'right',
+            position: 'right'，
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'dark'，
         links: [
           {
             title: 'WDOPEN',
