@@ -81,12 +81,12 @@ const config = {
             href: 'https://github.com/wdopen/docs',
             className: 'header-github-link',
             'aria-label': 'GitHub repo',
-            position: 'right'，
+            position: 'right',
           },
         ],
       },
       footer: {
-        style: 'dark'，
+        style: 'dark',
         links: [
           {
             title: 'WDOPEN',
